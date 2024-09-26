@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Tutorial</title>
+</head>
+<body>
+
+<body>
+
+<div style="background-color:royalblue; font-size: 30px "> Nav bar </div>
+    <ui style="list-style-type: none; overflow:hidden; color: aqua"
+       <Ii style="display: inline;">men </Ii>
+       <Ii style="display: inline;">womens</Ii>
+       <Ii style="display: inline;">kids </Ii>
+       <Ii style="display: inline;">sale</Ii>
+    </ui>
+</div>
+
+   
+     <div style=" background-image: ;"  background-image: url("bgdesert.jpg");
+      <div style="background-color:purple; height: 500px;"> Landing Image </div>
+
+      <div style="background-color: brown; height: ;"
+</body>
+
+</html>
