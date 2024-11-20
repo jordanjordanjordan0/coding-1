@@ -1,0 +1,25 @@
+QUESTION-1
+
+name='Tom'
+password='123'
+
+securityName ='Tom'
+securityPassword ='123'
+
+print(name == securityName and password == securityPassword)
+
+QUESTION 2
+
+ecgRequest= 10
+ecgInshipment= 4
+print(oxygenRequest < oxygenShipment)
+
+oxygenRequest= 6
+oxygenShipment= 9
+
+QUESTION 3 
+
+msg='ujc byuwdlbckdb'
+msgRecievedBy='wsvcyev wv uceut'
+
+ 
