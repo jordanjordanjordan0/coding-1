@@ -63,3 +63,32 @@ def checkAcountBalance(x)
 
 
 def transferMoney()
+
+
+
+
+
+
+
+
+#built-in functions
+
+print()
+input()
+
+int()
+str()
+float()  
+
+# user- defined functions
+
+
+def welcomeMessage():
+    name = input("please type in your name: ")
+    print('Hello, Welcome back to school, ' + name )
+
+welcomeMessage()
+
+OrderTurkeySandwich()
+OrderYams()
+OrderGreens()
