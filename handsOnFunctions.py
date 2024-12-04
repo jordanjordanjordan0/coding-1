@@ -45,3 +45,46 @@ verifyAge(19)
 
 
 
+
+
+
+
+
+
+
+
+
+
+# Activity
+
+def hoursToMinutes(hours):
+    print('mintues: ')
+    print(hour * 60)
+
+hoursToMintues(10)
+
+# Conditional Statements
+# if /else keywords: gives us the ability to
+# control outcomes and make decisions on data.
+
+# food expiration software is an example of
+# using conditional statements. If the food expires
+# it needs to be thrown away, otherwise, or else
+# it can be eaten
+
+def foodExpiration(month, data, year):
+    expriationMonth= 12
+    expriationDate = 5
+    expriationYear= 2026 
+    if date == expriationDate and year > expriationYear:
+        print('throw food away')
+    else:
+        print('food is still good')
+
+foodExpiration(12, 8, 2024)
+ 
+
+
+
+
+
