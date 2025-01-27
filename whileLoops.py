@@ -33,3 +33,30 @@ def inentoryLoop()
         pickupItem= input('what item are you picking up?: ')
 
 inventoryLoop()
+
+def replaceInventoryItem()
+    
+
+def rngGame(): 
+    randomNumber = random.randrange(1,11)
+    print(randomNumber)
+    userAnswer = ''
+    while randomNumber != userAnswer:
+        userInputGuess= int(input()
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+def passwordSystem():
+    password = 'fastcar'
+    userPassword = ''
