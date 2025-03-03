@@ -1,0 +1,9 @@
+#  This game is a snake game where you must collect the blue dots
+
+# To control the snake you must use the arrow keys to control the direction the snake goes in
+
+# The visual that is used for this game is the green snake on a plain black setting with a blue dot popping up for you to collect 
+
+# The player is trying to achieve the most possible dots collected for a total score without touching the wall
+
+# Nothing much besides the colors that stands out. A simple but fun game
